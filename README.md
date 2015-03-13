@@ -10,7 +10,7 @@ It will be the your one stop shop for planning trips that you want to plan.
 
 It should have a list of all of your trip plans as well as a way to add a new trip plan.
 
-Your awesome designer friend has mocked up some screenshots for you to follow. Attached are the mocks for what the list of trip plans should look like, as well as the new trip plan form.
+Your awesome designer friend has mocked up some screenshots for you to follow. The mocks are found within this repository for what the list of trip plans should look like, as well as the new trip plan form.
 
 Requirements:
 
